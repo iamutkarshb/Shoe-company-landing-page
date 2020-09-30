@@ -1,8 +1,24 @@
-# Shoe-company-landing-page
-UI/ UX design for a shoe company
+# Website design for small business
 
-This is a basic webdesign for small buisnessess who are looking for a boOst in their online marketing.
-this basic code will help them to create a mind blowing website in a few minutes without much of a coding process.
-visit my site to get an idea how it looks...
+A UI/UX design template for the Small Buisness, looking for a boost in the online marketing sector to increase their profit in this pandemic situation...
 
-HAPPY CODING
+### Guidelines
+
+  * Each an every component and files for it should be in its folder
+    inside the component folder.
+  * Each page should be in their own directory in the pages directory.
+  * Make sure no one commits to the master branch
+  * Don't merge locally. Always create PRs.
+  
+### Fonts
+  * Nunito Sans
+  * Sans-Serif
+
+### Colors
+
+  * Background Color: #1E0606
+  * Text-color :  #7c0707
+                  #FFFFFF 50%
+                  #1E0606
+  * Accent color : #86140B
+                   #FFFFFF
